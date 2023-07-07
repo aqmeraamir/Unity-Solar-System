@@ -24,7 +24,7 @@ To run the Unity Solar System Simulation on your machine, follow these steps:
 **Or** 
 
 ------
-1. Download the latest build.
+1. Download the [latest build](https://github.com/aqmeraamir/Unity-Solar-System/releases/tag/v1.0.0).
 2. Un-zip the file.
 3. Run the .exe/.html file.
 ------
