@@ -18,7 +18,7 @@ The Unity Solar System Simulation is a virtual 3d simulation of our solar system
 To run the Unity Solar System Simulation on your machine, follow these steps:
 
 ------
-[click here for the web demo](https://aqmer-aamir.itch.io/solar-system)
+- [click here for the web demo](https://aqmer-aamir.itch.io/solar-system)
 ------
 
 **Or** 
