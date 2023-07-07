@@ -31,3 +31,4 @@ To run the Unity Solar System Simulation on your machine, follow these steps:
 
 ## Credits
 This project was created by Muhammad Aqmer Aamir as part of the "Game Design and Development" course on Coursera.
+**a large portion of the scripts and assets are provided by the course and are not mine.
